@@ -12,5 +12,4 @@ Python, Data Visualization, Machine Learning, Natural Language Processing, Softw
 
 **Contact Me**
 [LinkedIn](https://www.linkedin.com/in/bbrauserds/)
-
 [bbrauser@gmail.com](mailto:bbrauser@gmail.com)
