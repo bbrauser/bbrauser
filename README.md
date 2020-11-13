@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**bbrauser/bbrauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you so much for checking out my GitHub! I'm a data scientist passionate about using data visualization, machine learning, and natural language processing to make a positive impact on the world!
 
-Here are some ideas to get you started:
+• I currently attend Lambda School's data science program
+• While not coding data science, I enjoy singing, reading, and playing tabletop RPGs like D&D and Pathfinder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+Python
+Data Visualization
+Machine Learning
+Natural Language Processing
+Software Engineering
+SQL
+NoSQL
+Tensorflow
+Communication
+Collaboration
+Perceptiveness
+Interpersonal Skills
+
+**Contact Me**
+• [LinkedIn](https://www.linkedin.com/in/bbrauserds/)
+• [bbrauser@gmail.com](mailto:bbrauser@gmail.com)
