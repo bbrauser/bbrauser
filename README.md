@@ -11,5 +11,4 @@ Thank you so much for checking out my GitHub! I'm a data scientist passionate ab
 Python, Data Visualization, Machine Learning, Natural Language Processing, Software Engineering, SQL, NoSQL, Tensorflow, Communication, Collaboration, Perceptiveness
 
 **Contact Me**
-[LinkedIn](https://www.linkedin.com/in/bbrauserds/)
-[bbrauser@gmail.com](mailto:bbrauser@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bbrauserds/) / [Email](mailto:bbrauser@gmail.com)
