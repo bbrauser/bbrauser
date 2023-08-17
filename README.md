@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Thank you so much for checking out my GitHub Portfolio! I'm a data analyst passionate about using data to help business make smart financial decisions. Here you will find projects that I have completed during my studies in both Lambda and Murray State.
+Thank you so much for checking out my GitHub Portfolio! I'm a data analyst passionate about using data to help business make smart financial decisions. Here you will find projects that I have completed during my studies in both Lambda and Murray State as well as some non-school related projects.
 
 • Gradutate of Lambda School's data science program
 
